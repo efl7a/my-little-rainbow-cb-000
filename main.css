@@ -3,7 +3,7 @@ div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
 =======
-  border: 20px solid; /* this is short hand for setting 
+  border: 20px solid; /* this is short hand for setting
                             the border's width, its type */
 >>>>>>> cc3c577d365a86da411f2980c3bbd89f115249fe
   display: inline-block; /* a way of positioning elements */
